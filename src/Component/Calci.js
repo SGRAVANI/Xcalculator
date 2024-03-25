@@ -73,7 +73,7 @@ function handleClick(e)
       <button type='button' id="b_2" className={styles.btn}>2</button>
       <button type='button' id="b_3"className={styles.btn}>3</button>
       <button type='button' id="b_mul"className={styles.btn}>*</button>
-      <button type='button' id="b_cancel" className={styles.btn}>c</button>
+      <button type='button' id="b_cancel" className={styles.btn}>C</button>
       <button type='button' id="b_0"className={styles.btn}>0</button>
       <button type='button' id="b_equal"className={styles.btn}>=</button>
       <button type='button' id="b_div"className={styles.btn}>/</button>

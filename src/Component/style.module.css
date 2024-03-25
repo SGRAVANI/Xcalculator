@@ -30,12 +30,16 @@
     grid-column-start: 1;
     grid-column-end:5;
 } */
+.row2 input{
+    padding:2px 5px;
+}
 .outputrow{
     
     font-weight: bold;
     font-size: 1.2rem;
     color: gray;
-    height: 22px;
+    height: 23px;
+    
 }
 .btnContainer{
     display: grid;

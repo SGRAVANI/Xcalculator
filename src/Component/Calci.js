@@ -38,9 +38,14 @@ function handleClick(e)
     }
     else  if(str[1]=="equal")
     {
+        if(inp.length===0)
+        {
+        setResult("Error")
+        } 
+        else {
      let result=eval(inp);
      setResult(result)
-     
+        }
     }
     else{
         setInp((prev)=>{

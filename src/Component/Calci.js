@@ -17,7 +17,7 @@ function handleClick(e)
     else  if(str[1]=="sub")
     {
      setInp((prev)=>{
-        return prev.concat("sub")
+        return prev.concat("-")
      })   
     }
     else  if(str[1]=="mul")

@@ -35,6 +35,7 @@ function handleClick(e)
     else  if(str[1]=="cancel")
     {
      setInp("")   
+     setResult("")
     }
     else  if(str[1]=="equal")
     {
